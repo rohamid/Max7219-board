@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MAX7219)(type Legacy)(uri C:/Users/Rohamid/Documents/KiCad/Library/Footprint/MAX7219/MAX7219.lib)(options "")(descr ""))
+)
